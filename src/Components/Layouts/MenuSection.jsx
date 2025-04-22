@@ -10,7 +10,7 @@ let menus = [
     image: "images/menu/cake1.jpeg",
     stars: 4.4,
     description: `A rich, moist chocolate cake layered with smooth, creamy chocolate ganache.`,
-    price: 850,
+    price: 700,
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ let menus = [
     image: "images/menu/cake2.jpeg",
     stars: 4.5,
     description: `A soft, caramel-infused cake topped with butterscotch cream and praline crunch.`,
-    price: 750,
+    price: 400,
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ let menus = [
     image: "images/menu/cake3.jpeg",
     stars: 4.4,
     description: `A rich, chocolate-filled cake topped with creamy ganache and choco chips.`,
-    price: 800,
+    price: 400,
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ let menus = [
     image: "images/menu/cake4.jpeg",
     stars: 4.6,
     description: `A chocolate-layered cake wrapped with KitKat bars and topped with gems.`,
-    price: 850,
+    price: 475,
   },
   {
     id: 5,
@@ -46,7 +46,7 @@ let menus = [
     image: "images/menu/cake10.jpeg",
     stars: 4.7,
     description: `A light, fluffy cake layered with pineapple cream and juicy pineapple chunks.`,
-    price: 700,
+    price: 450,
   },
   {
     id: 6,
@@ -55,7 +55,7 @@ let menus = [
     image: "images/menu/cake6.jpeg",
     stars: "4.8",
     description: `A classic, fluffy cake layered with smooth vanilla cream and soft crumbs.`,
-    price: 600,
+    price: 400,
   },
 ];
 
